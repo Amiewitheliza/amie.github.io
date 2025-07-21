@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Amie, holds an MBA from INSEAD and Cheung Kong Graduate School of Business, and a Ph.D. in Computer Science, fellow of Cartier.
-
+Amie holds MBAs from INSEAD and the Cheung Kong Graduate School of Business, a Ph.D. in Computer Science, and is a Cartier Fellow. As a co-founder, she helped establish two AI companies — NoBarriers Tech and DeepLight AI, the latter of which was acquired by XX Company for $300 million. She also serves as an advisor and early investor in several AI projects.
 
 My Work Experience
 ======
