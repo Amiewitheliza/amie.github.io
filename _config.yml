@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Amie / Founder | Investor | Builder"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "images/Amie.jpg"
   name             : "Amie W."
   pronouns         : # example: "she/her"  
-  bio              : "👋 Hi, I'm Amie，Founder | Investor | Builder，Focused on AI x Crypto.I co-founded multiple AI startups and actively invest in early-stage innovation.
+  bio              : "👋 Hi, I'm Amie，focused on AI x Crypto.I co-founded multiple AI startups and actively invest in early-stage innovation.
 Building with real builders, from zero to open-source impact"
   location         : "Earth"
   employer         : "Stanford University"
