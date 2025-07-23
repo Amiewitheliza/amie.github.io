@@ -22,10 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "361753109486_.pic_hd.jpg"
+  name             : "Amie W."
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "👋 Hi, I'm Amie，Founder | Investor | Builder，Focused on AI x Crypto.I co-founded multiple AI startups and actively invest in early-stage innovation.
+Building with real builders, from zero to open-source impact"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
