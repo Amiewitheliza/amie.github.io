@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "361753109486_.pic_hd.jpg"
+  avatar           : "images/361753109486_.pic_hd.jpg"
   name             : "Amie W."
   pronouns         : # example: "she/her"  
   bio              : "👋 Hi, I'm Amie，Founder | Investor | Builder，Focused on AI x Crypto.I co-founded multiple AI startups and actively invest in early-stage innovation.
